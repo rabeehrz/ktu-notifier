@@ -16,7 +16,7 @@ Change the following settings:
 // TWILIO CONFIGURATION
 const accountSID = "YOUR_ACCOUNT_SID";
 const authToken = "YOUR_AUTH_TOKEN";
-const fromPhoneNumber = "FROM_PHONE_NUMBER";
+const fromPhoneNumber = "FROM_PHONE_NUMBER"; // This is your Twilio Number
 const toPhoneNumber = "TO_PHONE_NUMBER";
 ```
 
